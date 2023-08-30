@@ -52,4 +52,4 @@ const Yulia = Bäst
 ```
 
 [^1]: Footnote should be displayd.
->>>>>>> refs/remotes/origin/main
+
