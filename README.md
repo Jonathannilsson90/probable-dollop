@@ -30,9 +30,4 @@ First footnote in READMe file[^1]
 [^1]: Footnote should be displayd.
 =======
 
-(<html>
-    <body onload="trigger();">
-        <p id="hover">Welcome!!!</p>
-    </body>
-</html>)
 
