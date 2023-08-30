@@ -28,10 +28,10 @@
 ___
 First footnote in READMe file[^1]
 
-=======
 
-> Text is displayed in a distinct blockquote style.
-=======
+
+> Text is displayed in a distinct blockquote style.<br><br>
+
 (`this is a code snippet`)
 
 [^1]: Footnote should be displayd.
