@@ -10,4 +10,4 @@
 
 # Detta är en header
 
-* the text is displayed in italics *
+*the text is displayed in italics*
