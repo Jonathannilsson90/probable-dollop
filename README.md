@@ -32,3 +32,17 @@ ___
 
 (`this is a code snippet`)
 ___
+=======
+
+
+
+> Text is displayed in a distinct blockquote style.<br><br>
+
+(`this is a code snippet`)
+
+```
+const Yulia = Bäst
+```
+
+[^1]: Footnote should be displayd.
+>>>>>>> refs/remotes/origin/main
