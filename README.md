@@ -18,3 +18,6 @@
 *the text is displayed in italics*
 
 [link text](http://example.com)
+
+First footnote in READMe file[^1]
+[^1]: Footnote should be displayd
