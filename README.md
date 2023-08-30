@@ -12,3 +12,5 @@
 *the text is displayed in italics*
 
 [link text](http://example.com)
+
+`![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg`
