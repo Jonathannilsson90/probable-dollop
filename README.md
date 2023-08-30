@@ -15,7 +15,8 @@
 ##### Header 5
 ###### Header 6
 
-*the text is displayed in italics*
+*the text is displayed in italics style*
+_the text is displayed in bold style_
 
 [link text](http://example.com)
 
@@ -34,4 +35,4 @@ First footnote in READMe file[^1]
 
 (`this is a code snippet`)
 
-[^1]: Footnote should be displayd.
+i[^1]: Footnote should be displayd.
