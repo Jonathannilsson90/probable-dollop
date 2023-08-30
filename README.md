@@ -1,8 +1,8 @@
 # probable-dollop
 
-1. ordered list,
-2. ordered list,
-3. ordered list,
+1. ordered list
+2. ordered list
+3. ordered list
 
 * unordered list
 * unordered list
