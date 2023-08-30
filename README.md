@@ -27,4 +27,4 @@ First footnote in READMe file[^1]
 
 ___
 
-
+(`this is a code snippet`)
