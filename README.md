@@ -6,7 +6,6 @@
 #### Header 4
 ##### Header 5
 ###### Header 6
-<<<<<<< HEAD
 ___
 1. ordered list
 2. ordered list
