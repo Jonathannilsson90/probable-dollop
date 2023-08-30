@@ -18,6 +18,9 @@
 *the text is displayed in italics*
 
 [link text](http://example.com)
+
+First footnote in READMe file[^1]
+[^1]: Footnote should be displayd
 ![Mountain image](https://mdg.imgix.net/assets/images/san-juan-mountains.jpg?auto=format&fit=clip&q=40&w=1080)
 
 ~~Strikethrough~~
