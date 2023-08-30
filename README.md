@@ -15,8 +15,8 @@
 ##### Header 5
 ###### Header 6
 
-*the text is displayed in italics style*
-_the text is displayed in bold style_
+*the text is displayed in italics style*<br>
+**the text is displayed in bold style**
 
 [link text](http://example.com)
 
