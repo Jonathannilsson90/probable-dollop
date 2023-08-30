@@ -35,7 +35,7 @@ First footnote in READMe file[^1]
 
 (`this is a code snippet`)
 
-i[^1]: Footnote should be displayd.
+[^1]: Footnote should be displayd.
 =======
 ```
 const Yulia = Bäst
