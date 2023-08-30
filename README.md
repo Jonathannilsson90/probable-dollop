@@ -34,4 +34,8 @@ First footnote in READMe file[^1]
 =======
 (`this is a code snippet`)
 
+```
+const Yulia = Bäst
+```
+
 [^1]: Footnote should be displayd.
