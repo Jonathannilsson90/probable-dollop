@@ -9,5 +9,6 @@
 * unordered list
 
 # Detta är en header
-
 *the text is displayed in italics*
+
+[link text](http://example.com)
