@@ -17,7 +17,7 @@ ___
 ___
 *the text is displayed in italics*
 ___
-=======
+
 
 *the text is displayed in italics style*<br>
 **the text is displayed in bold style**
@@ -37,7 +37,7 @@ ___
 
 (`this is a code snippet`)
 ___
-=======
+
 
 
 
