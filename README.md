@@ -6,6 +6,7 @@
 #### Header 4
 ##### Header 5
 ###### Header 6
+<<<<<<< HEAD
 ___
 1. ordered list
 2. ordered list
@@ -17,6 +18,11 @@ ___
 ___
 *the text is displayed in italics*
 ___
+=======
+
+*the text is displayed in italics style*<br>
+**the text is displayed in bold style**
+
 [link text](http://example.com)
 ___
 
@@ -40,6 +46,8 @@ ___
 
 (`this is a code snippet`)
 
+i[^1]: Footnote should be displayd.
+=======
 ```
 const Yulia = Bäst
 ```
