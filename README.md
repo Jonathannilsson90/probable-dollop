@@ -7,28 +7,32 @@
 ##### Header 5
 ###### Header 6
 ___
+
 1. ordered list
 2. ordered list
 3. ordered list
 ___
+
 * unordered list
 * unordered list
 * unordered list
 ___
+
+*the text is displayed in italics style*<br>
 **the text is displayed in bold style**
-*the text is displayed in italics style*
 <br>
 ___
 
 [link text](http://example.com)
 ___
 
-
 ![Mountain image](https://mdg.imgix.net/assets/images/san-juan-mountains.jpg?auto=format&fit=clip&q=40&w=1080)
 ___
+
 ~~Strikethrough~~
 
 ___
+
 First footnote in READMe file[^1]
 [^1]: Footnote should be displayd.
 ___
@@ -41,16 +45,13 @@ ___
 ___
 
 (`this is a code snippet`)
-
+```
+const Yulia = Bäst
+```
 ___
 
 [^1]: Footnote should be displayd.
 
-___
-
-```
-const Yulia = Bäst
-```
 ___
 
 [^1]: Footnote should be displayd.
