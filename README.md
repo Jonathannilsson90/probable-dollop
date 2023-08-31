@@ -52,6 +52,5 @@ ___
 
 [^1]: Footnote should be displayd.
 
-___
 
 [^1]: Footnote should be displayd.
