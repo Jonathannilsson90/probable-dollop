@@ -55,8 +55,9 @@ ___
 | Row 1,1     | Row 1,2     | Row 1,3       |
 | Row 2,1     | Row 2,2     | Row 2,3       |
 
+___
 
-
+[click on this link to go to header](#detta-är-en-header)
 ___
 [^1]: Footnote should be displayd.
 
