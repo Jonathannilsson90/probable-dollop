@@ -15,12 +15,10 @@ ___
 * unordered list
 * unordered list
 ___
-*the text is displayed in italics*
-___
-=======
-
-*the text is displayed in italics style*<br>
 **the text is displayed in bold style**
+*the text is displayed in italics style*
+<br>
+___
 
 [link text](http://example.com)
 ___
@@ -37,19 +35,22 @@ ___
 
 (`this is a code snippet`)
 ___
-=======
-
-
 
 > Text is displayed in a distinct blockquote style.<br><br>
 
+___
+
 (`this is a code snippet`)
 
+___
+
 [^1]: Footnote should be displayd.
-=======
+
+___
+
 ```
 const Yulia = Bäst
 ```
+___
 
 [^1]: Footnote should be displayd.
-
